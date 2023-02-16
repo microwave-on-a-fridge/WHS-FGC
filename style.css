@@ -140,6 +140,19 @@ a:active {
 .fadeInUp {
   animation-name: fadeInUp;
 }
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.rotation {
+  animation-name: rotation;
+}
+
 /*END OF ANIMATION STUFF */
 
 .border {
