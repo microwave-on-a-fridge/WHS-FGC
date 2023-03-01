@@ -6,22 +6,22 @@ body {
   color: #ffffff;
 }
 a:link {
-  color: #d88fff;
+  color: #efb0ff;
   background-color: transparent;
   text-decoration: none;
 }
 a:visited {
-  color: #d88fff;
+  color: #efb0ff;
   background-color: transparent;
   text-decoration: none;
 }
 a:hover {
-  color: #d88fff;
+  color: #efb0ff;
   background-color: transparent;
   text-decoration: underline;
 }
 a:active {
-  color: #d88fff;
+  color: #efb0ff;
   background-color: transparent;
   text-decoration: underline;
 }
