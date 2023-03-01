@@ -184,6 +184,11 @@ a:active {
   padding: 5px;
 }
 
+.column2 {
+  flex: 50%;
+  padding: 5px;
+}
+
 .grow {
   transition: transform 0.2s;
   margin: 0 auto;
